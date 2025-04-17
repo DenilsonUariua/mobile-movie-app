@@ -22,11 +22,17 @@ This is a mobile application that allow the user to see trending movies as well 
 - TypeScript - type safety
 - Tailwind CSS - styling 
 
-### Splash Screen
-![Media](https://github.com/user-attachments/assets/eb514520-8d37-452f-95b1-deaa661e24e6)
+### Home Screen
+![movie (1)](https://github.com/user-attachments/assets/86d74319-a719-4bd1-aaa8-c32c4ecb7997)
 
-### Login Screen
-![Media (1)](https://github.com/user-attachments/assets/4cf8ef08-f321-4156-954e-f1d31e16efb2)
+### Search Screen
+![movie (2)](https://github.com/user-attachments/assets/63317f91-3038-4211-9087-d6f5890b78db)
+
+### Selected Movie Screen
+![movie (4)](https://github.com/user-attachments/assets/0786993b-3e75-4e82-87cf-ac1ef7ee69c8)
+
+### Profile Screen
+![movie (5)](https://github.com/user-attachments/assets/faa0a6cb-d626-448c-bfbc-10e5be4d8e82)
 
 ### Authors
 - Adrian Hajdin  
